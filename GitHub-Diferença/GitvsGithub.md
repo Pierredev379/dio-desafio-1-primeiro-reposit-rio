@@ -1,8 +1,8 @@
-# A diferença entre Git e GitHub
+# A diferença entre Git vs GitHub
 
 ## De acordo com o blog da driven, Git e Github são dois conceitos diferentes porém ao mesmo tempo, um completa o outro
 
-**Características do Git**
+## Características do Git
 O Git é um software de controle de versão.
 
 Com ele conseguimos gerar registros do nosso projeto mantendo o controle em quais arquivos foram alterados, quando foram alterados e por quem.
@@ -13,7 +13,7 @@ Outra vantagem de utilizar o Git é a possibilidade de termos múltiplos desenvo
 
 Essa característica do Git somada a uma ótima comunicação do time de devs, possibilita projetos grandes serem concluídos em intervalos de tempo cada vez menores.
 
-**Características do GitHub**
+## Características do GitHub
 O GitHub é uma espécie de rede social de desenvolvedores.
 
 Enquanto o Git é um software, o GitHub é uma plataforma onde você pode subir seus projetos, criar seu portfólio e compartilhá-lo com o mundo. 
